@@ -36,6 +36,7 @@
                 <!-- we do not want this to deploy -->
                 <configuration>
                     <goals>install</goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>
