@@ -1,4 +1,4 @@
-package guru.springframework.spring5petclinic.spring5petclinic;
+package guru.springframework.spring5petclinic.model;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
