@@ -2,11 +2,9 @@ package guru.springframework.spring5petclinic.services;
 
 import guru.springframework.spring5petclinic.model.Owner;
 
-import java.util.Set;
-
-public interface OwnerService {
+//extends passes in the objects required by the interface generics
+//    notice we did not implement the interface, only extended it. (so body not required)
+public interface OwnerService extends CrudService<Owner, Long> {
     Owner findByLastName(String lastname);
-    Owner findById(Long id);
-    Owner save(Owner owner);
-    Set<Owner> findAll();
+    //deleted methods that are inherited from CrudService interface
 }
