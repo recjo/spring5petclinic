@@ -1,6 +1,6 @@
 package guru.springframework.spring5petclinic.services;
 
-import guru.springframework.spring5petclinic.model.Pet;
+import guru.springframework.spring5petclinic.Pet;
 
 //extends passes in the objects required by the interface generics
 //    notice we did not implement the interface, only extended it. (so body not required)

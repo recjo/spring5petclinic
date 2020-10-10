@@ -1,4 +1,4 @@
-package guru.springframework.spring5petclinic.model;
+package guru.springframework.spring5petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
