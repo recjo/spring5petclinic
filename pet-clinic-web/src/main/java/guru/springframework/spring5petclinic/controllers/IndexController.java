@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class IndexController {
-
     //when request matches root, /, index or index.html,
     @RequestMapping({"", "/", "index", "index.html"})
     public String index() {
