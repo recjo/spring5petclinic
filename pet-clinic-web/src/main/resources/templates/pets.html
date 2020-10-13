@@ -5,7 +5,23 @@
     <title>Pet Page</title>
 </head>
 <body>
+<!--/*@thymesVar id="owner" type="guru.springframework.spring5petclinic.model.Pet"*/-->
 <h1 th:text="'Pet Page'">Pet Page</h1>
+
+<table id="vets" class="table table-striped">
+    <thead>
+    <tr>
+        <th>Pet Name</th>
+        <th>Birthday</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="pet : ${pets}">
+        <td th:text="${pet?.id}"/>
+        <td th:text="${pet?.birthDate}"/>
+    </tr>
+    </tbody>
+</table>
 
 </body>
 </html>
