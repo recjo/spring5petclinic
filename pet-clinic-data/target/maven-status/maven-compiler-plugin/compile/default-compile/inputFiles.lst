@@ -1,0 +1,14 @@
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/Vet.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/BaseEntity.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/map/VetServiceMap.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/CrudService.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/map/AbstractMapService.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/Owner.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/Pet.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/Person.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/OwnerService.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/PetService.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/VetService.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/map/PetServiceMap.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/PetType.java
+/Users/bol/Java/spring5petclinic/pet-clinic-data/src/main/java/guru/springframework/spring5petclinic/services/map/OwnerServiceMap.java
